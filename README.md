@@ -14,6 +14,10 @@ This section was added for branch testing.
 ### About Section
 This project demonstrates branch collaboration workflow.
 
+## Pull Request Practice
+
+This update was made for the pull request simulation activity.
+
 ### Feature Section
 - Added documentation improvement.
 - Demonstrated pull request process.
