@@ -7,4 +7,17 @@ This section was added for branch testing.
 
 1. Branch management practice was done.
 2. File was updated with new content.
-3. Version control workflow was demonstrated.       
+3. Version control workflow was demonstrated.           
+
+## PR Practice Update
+
+### About Section
+This project demonstrates branch collaboration workflow.
+
+### Feature Section
+- Added documentation improvement.
+- Demonstrated pull request process.
+- Practiced GitHub collaboration simulation.
+
+### Note
+Version control practice is important in software development.
